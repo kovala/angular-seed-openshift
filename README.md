@@ -1,4 +1,4 @@
-#Wow
+#Wow it really works
 #This is a quickstart version of Angular Seed for [OpenShift](https://openshift.redhat.com) 
 
 Required: 
